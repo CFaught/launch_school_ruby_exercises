@@ -1,0 +1,12 @@
+#
+# Intro to Programming: Flow Control
+#
+# Author: Caleb Faught
+#
+# Date: 1/4/2016
+#
+# my answers for exercise 4
+
+1) FALSE
+2) Did you get it right?
+3) Alright now!
